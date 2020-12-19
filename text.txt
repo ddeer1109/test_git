@@ -3,3 +3,6 @@ modify text
 
 
 asddd
+
+
+oto nowa linijka bez konflikut
