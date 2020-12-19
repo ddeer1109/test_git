@@ -1,2 +1,3 @@
 1234 initialization
 modify text
+inna linijka
